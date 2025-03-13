@@ -75,6 +75,7 @@ For full table with all metrics go to this [Airtable](https://airtable.com/appar
 |  63 | [fastagency](https://github.com/airtai/fastagency)  | The fastest way to bring multi-agent workflows to production.  | coding  | 372  | 32  | 62  |  9 | 7 days, 8 hrs, 23 mins  |  14 | Apache License 2.0  |
 |  64 | [AgentRun](https://github.com/Jonathan-Adly/AgentRun)  | The easiest, and fastest way to run AI-generated Python code safely  | coding  | 257  | 23  | 4  |  2 | 59 days, 8 hrs, 8 mins  |  9 | Apache License 2.0  |
 |  65 | [agentjo](https://github.com/tanchongmin/agentjo)  | Towards Human-Friendly, Fast Learning and Adaptable Agent Communities  | framework  | 117  | 11  | 4  |  4 | 2 days, 15 hrs, 2 mins  |  0 | MIT License  |
+|  66 | [Upsonic](https://github.com/upsonic/upsonic)  | Upsonic is a reliable AI framework supporting MCP, offering trusted agent workflows with verification layers. | framework  | 6870  | 650  | 98  |  26 | 0 days, 4 hrs, 17 mins  |  198 | MIT License  |
 
 ## Inspired By
 
